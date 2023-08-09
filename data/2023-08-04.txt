@@ -1,0 +1,12 @@
+order_id,date,product_name,quantity
+347-41-4179,2023-08-04,Melon - Cantaloupe,24
+408-64-5384,2023-08-04,Galliano,7
+847-59-7597,2023-08-04,General Purpose Trigger,20
+273-02-4981,2023-08-04,Madeira,73
+712-94-3659,2023-08-04,"Liqueur Banana, Ramazzotti",65
+546-85-1476,2023-08-04,Mountain Dew,88
+746-61-3996,2023-08-04,"Wine - Red, Cooking",69
+771-43-4018,2023-08-04,Cilantro / Coriander - Fresh,3
+571-39-9729,2023-08-04,Chocolate - Mi - Amere Semi,84
+353-77-5814,2023-08-04,Cabbage - Nappa,78
+106-62-8803,2023-08-04,"Lentils - Red, Dry",42
